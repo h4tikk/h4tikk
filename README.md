@@ -31,7 +31,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,postgres,redis,rabbitmq,docker,git,linux" alt="C#, .NET, RUST, PostgreSQL, Redis, RabbitMQ, Docker, Git, Linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,postgres,redis,rabbitmq,docker,git,arch" alt="C#, .NET, RUST, PostgreSQL, Redis, RabbitMQ, Docker, Git, Linux" />
   </a>
 </p>
 
