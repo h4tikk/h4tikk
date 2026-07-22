@@ -6,7 +6,7 @@
 <h1 align="center">Привет, я hatikk 👋</h1>
 
 <p align="center">
-  C# / .NET developer · Backend · Архитектура сервисов
+  C# / .NET developer · Backend · Architecture
 </p>
 
 <p align="center">
