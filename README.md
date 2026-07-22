@@ -31,7 +31,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,rabbitmq,docker,git,linux" alt="C#, .NET, PostgreSQL, Redis, RabbitMQ, Docker, Git, Linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,postgres,redis,rabbitmq,docker,git,linux" alt="C#, .NET, RUST, PostgreSQL, Redis, RabbitMQ, Docker, Git, Linux" />
   </a>
 </p>
 
@@ -40,12 +40,12 @@
 | Проект | Что это | Стек |
 | --- | --- | --- |
 | [BetterCRM](https://github.com/h4tikk/BetterCRM) | Система управления распределенной командой | C#, ASP.NET Core, PostgreSQL |
-| [ClinicBookingAPI](https://github.com/h4tikk/ClinicBiikingApi) | Слоистая архитектура с разделением по вертикали | .NET, Docker |
+| [ClinicBookingAPI](https://github.com/h4tikk/ClinicBookingApi) | Слоистая архитектура с разделением по вертикали | .NET, Docker |
 
 ## Сейчас изучаю
 
 - Архитектуру .NET-приложений и модульный монолит.
 - Микросервисы, интеграции через очереди сообщений и API-дизайн.
-- Системное программирование.
+- Системное программирование на языке RUST.
 
 <p align="center">Профиль обновляется вместе с проектами.</p>
