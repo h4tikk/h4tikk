@@ -39,8 +39,8 @@
 
 | Проект | Что это | Стек |
 | --- | --- | --- |
-| [&lt;BetterCRM&gt;](https://github.com/&lt;h4tikk&gt;/&lt;BetterCRM&gt;) | Система управления распределенной командой | C#, ASP.NET Core, PostgreSQL |
-| [&lt;ClinicBookingAPI&gt;](https://github.com/&lt;h4tikk&gt;/&lt;ClinicBiikingApi&gt;) | Слоистая архитектура с разделением по вертикали | .NET, Docker |
+| [BetterCRM](https://github.com/h4tikk/BetterCRM) | Система управления распределенной командой | C#, ASP.NET Core, PostgreSQL |
+| [ClinicBookingAPI](https://github.com/h4tikk/ClinicBiikingApi) | Слоистая архитектура с разделением по вертикали | .NET, Docker |
 
 ## Сейчас изучаю
 
