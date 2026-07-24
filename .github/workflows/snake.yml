@@ -3,10 +3,10 @@ name: Generate contribution snake
 on:
   schedule:
     - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - circleci-project-setup
+  workflow_dispatch:
+  push:
+    branches:
+      - circleci-project-setup
 jobs:
     generate:
       permissions:
