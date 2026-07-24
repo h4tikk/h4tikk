@@ -50,6 +50,10 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4tikk&layout=compact&theme=tokyonight)
 
-![Snake](https://raw.githubusercontent.com/h4tikk/h4tikk/output/snake-dark.svg?v=3)
-  
+<p align="center">
+    <img
+      src="https://raw.githubusercontent.com/h4tikk/h4tikk/output/snake-dark.svg?v=3"
+      alt="Snake animation"
+    />
+  </p>  
 <p align="center">Профиль обновляется вместе с проектами.</p>
