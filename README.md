@@ -46,7 +46,7 @@
 | --- | --- | --- |
 | [BetterCRM](https://github.com/h4tikk/BetterCRM) | Система управления распределенной командой(скоро переход на микросервисы) | C#, ASP.NET Core, PostgreSQL |
 | [ClinicBookingAPI](https://github.com/h4tikk/ClinicBookingApi) | Api записи к врачам. Учебный проект на слоистой архитектуре по вертикали | .NET, Docker |
-| [SocialNetwork](https://github.com/h4tikk/SocialNetwork) | Социальная сеть построенная на микросервисах(в разработке) | .NET,  |
+| [SocialNetwork](https://github.com/h4tikk/SocialNetwork) | Социальная сеть построенная на микросервисах(в разработке) | .NET, OpenIddict |
 
 
 ## Сейчас изучаю
