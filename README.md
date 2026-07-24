@@ -29,7 +29,7 @@
 - Люблю разбираться, как устроена система, а не только писать код
 - Открыт к интересным pet-проектам и командной разработке
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=h4tikk&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=h4tikk&theme=github-dark" alt="GitHub Streak" /></a>
 </p>
 
 ## Стек
