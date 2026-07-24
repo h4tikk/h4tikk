@@ -47,5 +47,5 @@
 - Архитектуру .NET-приложений, модульные монолиты и DDD.
 - Микросервисы, интеграции через очереди сообщений и API-дизайн.
 - Системное программирование на языке RUST.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4tikk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">Профиль обновляется вместе с проектами.</p>
