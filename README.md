@@ -22,10 +22,10 @@
 
 ## Обо мне
 
-Пишу приложения на C#, React и Rust. Интересуюсь архитектурой,
+Пишу приложения на C#, Rails и Rust. Интересуюсь архитектурой,
 проектированием API, надёжными сервисами, системным программированием и linux-райсингом
 
-- Сейчас развиваюсь в backend-разработке на .NET и в системном программировании на RUST
+- Сейчас развиваюсь в backend-разработке на .NET и Rails, а также в системном программировании на RUST
 - Люблю разбираться, как устроена система, а не только писать код
 - Открыт к интересным pet-проектам и командной разработке
 <p align="center">
@@ -36,7 +36,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,react,postgres,redis,rabbitmq,docker,arch" alt="C#, .NET, RUST, React, PostgreSQL, Redis, RabbitMQ, Docker, Linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,rails,postgres,redis,rabbitmq,docker,arch" alt="C#, .NET, RUST, Rails, PostgreSQL, Redis, RabbitMQ, Docker, Linux" />
   </a>
 </p>
 
